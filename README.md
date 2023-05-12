@@ -1,12 +1,9 @@
 [![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ebuka Udeala</h1>
 <h3 align="center">A passionate Frontend Web developer from Nigeria</h3>
-<img align="center" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unclejames2610&label=Profile%20views&color=0e75b6&style=flat" alt="unclejames2610" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unclejames2610" alt="unclejames2610" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_unclejames_" target="blank"><img src="https://img.shields.io/twitter/follow/_unclejames_?logo=twitter&style=for-the-badge" alt="_unclejames_" /></a> </p>
 
