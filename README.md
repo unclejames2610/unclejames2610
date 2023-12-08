@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Typescript, Next.js, React, Tailwind**
 
-- 🌱 I’m currently learning ** Next.js, Vue.js, Websocket**
+- 🌱 I’m currently learning ** Next.js, Vue.js, Flutter, Websocket**
 
 - 👨‍💻 All of my projects are available at [ebuka-portfolio.netlify.app](ebuka-portfolio.netlify.app)
 
-- 💬 Ask me about **React, Next, Tailwind**
+- 💬 Ask me about **React, Next.js, Tailwind**
 
 - 📫 How to reach me **udealaebuka@gmail.com**
 
