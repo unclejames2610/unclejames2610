@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Typescript, Next.js, React, Tailwind**
 
-- 🌱 I’m currently learning ** Next.js, Vue.js, Flutter, Websocket**
+- 🌱 I’m currently learning ** React Query, Zustang, Flutter, Websocket**
 
 - 👨‍💻 All of my projects are available at [ebuka-portfolio.netlify.app](ebuka-portfolio.netlify.app)
 
